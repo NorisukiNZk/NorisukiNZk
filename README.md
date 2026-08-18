@@ -19,8 +19,8 @@
   <!-- Minimalist Flat-Square Badges & Live Counter -->
   <a href="https://github.com/NorisukiNZk"><img src="https://img.shields.io/badge/GitHub-181824?style=flat-square&logo=github&logoColor=F7768E" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/NorisukiNZk"><img src="https://img.shields.io/badge/LinkedIn-181824?style=flat-square&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/NorisukiNZk"><img src="https://img.shields.io/badge/Instagram-181824?style=flat-square&logo=instagram&logoColor=BB9AF7" alt="Instagram" /></a>
-  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-181824?style=flat-square&logo=gmail&logoColor=9ECE6A" alt="Email" /></a>
+  <a href="https://instagram.com/noirzensky"><img src="https://img.shields.io/badge/Instagram-181824?style=flat-square&logo=instagram&logoColor=BB9AF7" alt="Instagram" /></a>
+  <a href="mailto:born.waffa@gmail.com"><img src="https://img.shields.io/badge/Email-181824?style=flat-square&logo=gmail&logoColor=9ECE6A" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=NorisukiNZk&label=%E2%9C%A7%20Views&color=f7768e&style=flat-square" alt="Profile Views" />
 
 </div>
@@ -39,7 +39,7 @@ passions:
   - Clean Code & Interactive Web UI/UX
   - Cinematic Video Editing & Motion Graphics
   - Anime Aesthetics & Ambient Lo-Fi
-philosophy: "Less is more. Elegance through simplicity."
+philosophy: "yayaya saya setuju itu"
 ```
 
 ---
