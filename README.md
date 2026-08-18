@@ -29,7 +29,7 @@
 ### 🌸 ｢ 概要 ｣ • About Me
 
 ```yaml
-name: [Nama Kamu]
+name: [Norisuki]
 status: Crafting pixels & writing code 🚀
 location: Indonesia 🇮🇩
 interests:
