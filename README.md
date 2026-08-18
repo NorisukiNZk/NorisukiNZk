@@ -1,35 +1,42 @@
 <div align="center">
 
-  <!-- Aesthetic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,5,10,18,24&height=220&section=header&text=%E2%9C%A7%20NORISUKI%20%E2%9C%A7&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=%E2%88%9E%20Lo-Fi%20Vibes%20%E2%80%A2%20Creative%20Developer%20%E2%80%A2%20Video%20Editor%20%E2%88%9E&descFontSize=18&descAlignY=68&descAlign=50&animation=fadeIn" width="100%" />
+  <!-- =================================================== -->
+  <!-- 🌸 AESTHETIC LO-FI MULTI-LAYERED HEADER BANNER 🌸 -->
+  <!-- =================================================== -->
 
-  <!-- Lo-Fi Study Room / Pixel Anime Vibes GIF -->
+  <!-- Top Soft Gradient Header with Glowing Typography -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1,5,10,18,24&height=220&section=header&text=%E2%9C%A7%20NORISUKI%20%E2%9C%A7&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=%E2%88%9E%20Lo-Fi%20Architect%20%E2%80%A2%20Creative%20Dev%20%E2%80%A2%20Video%20Editor%20%E2%88%9E&descFontSize=18&descAlignY=66&descAlign=50&animation=fadeIn" width="100%" />
+
+  <br/>
+
+  <!-- Panoramic Lo-Fi Anime Twilight Skyline / Sakura Street GIF -->
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="750" alt="Lo-Fi Anime Room" style="border-radius: 12px; box-shadow: 0px 10px 30px rgba(0,0,0,0.5);" />
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Anime Twilight Lo-Fi Skyline" style="border-radius: 14px; box-shadow: 0px 12px 35px rgba(0,0,0,0.6);" />
   </p>
 
-  <!-- Subtitle with Kanji & Animated Typing -->
+  <!-- Dynamic Typing & Japanese Subtitle -->
   <p align="center">
-    <font size="4"><b>☕ 深夜のコーディング • <i>Midnight Coding & Editing Sessions</i> ☕</b></font>
+    <font size="4"><b>🌌 ｢ 深夜の創造性 ｣ • <i>Midnight Creativity & Aesthetic Coding</i> 🌌</b></font>
   </p>
 
   <a href="https://github.com/NorisukiNZk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F7768E&center=true&vCenter=true&width=550&lines=Lo-Fi+Beats+%26+Midnight+Creativity;Fullstack+Dev+%2B+Video+Editor;Crafting+Smooth+Visuals+%26+Aesthetic+Code;Welcome+to+my+cozy+creative+space+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=F7768E&center=true&vCenter=true&width=580&lines=Lo-Fi+Beats+%2B+Midnight+Focus+Mode+☕;Fullstack+Engineering+%26+Video+Production;Transforming+Ideas+into+Visual+Masterpieces;Welcome+to+my+digital+creative+hub+✨" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Aesthetic Pill Badges -->
+  <!-- Aesthetic Pill Badges & Live Visitor Counter -->
   <a href="https://github.com/NorisukiNZk"><img src="https://img.shields.io/badge/GitHub-Profile-181824?style=for-the-badge&logo=github&logoColor=F7768E" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/NorisukiNZk"><img src="https://img.shields.io/badge/LinkedIn-Connect-181824?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" /></a>
   <a href="https://instagram.com/NorisukiNZk"><img src="https://img.shields.io/badge/Instagram-Follow-181824?style=for-the-badge&logo=instagram&logoColor=BB9AF7" alt="Instagram" /></a>
   <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-181824?style=for-the-badge&logo=gmail&logoColor=9ECE6A" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=NorisukiNZk&label=%E2%9C%A7%20Views&color=f7768e&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 <br/>
 
-<!-- Aesthetic Pixel Star Line -->
+<!-- Aesthetic Pixel Star Dividing Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-be0b-46a14e81bd25.gif" width="100%" />
 
 ---
@@ -131,15 +138,26 @@
 
 ---
 
-<!-- Aesthetic Footer Wave & Cozy Goodnight -->
+<!-- =================================================== -->
+<!-- 🌙 AESTHETIC LO-FI MULTI-LAYERED FOOTER 🌙 -->
+<!-- =================================================== -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,5,10,18,24&height=120&section=footer" width="100%" />
-  
+
+  <!-- Animated Lo-Fi Train Window / Scenic Twilight View -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284128-444a7f05-b0ff-403a-b73f-c309f7a77e5d.gif" width="100%" alt="Lo-Fi Train Scenery" style="border-radius: 14px; box-shadow: 0px 10px 30px rgba(0,0,0,0.5); margin-bottom: 20px;" />
+
+  <!-- Cylinder Gradient Wave with Cowboy Bebop / Anime Farewell Quote -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24,18,10,5,1&height=140&section=footer&text=%E2%9C%A7%20See%20You%20Space%20Cowboy...%20%E2%9C%A7&fontSize=28&fontColor=ffffff&fontAlignY=60&desc=%E2%88%9E%20Thanks%20for%20visiting%20my%20creative%20sanctuary%20%E2%88%9E&descFontSize=16&descAlignY=82" width="100%" />
+
+  <br/>
+
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" height="30" />
-    <b>Crafted with ☕ & Lo-Fi Beats by Norisuki</b>
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" height="30" />
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" />
+    <b>Crafted with ☕, Passion & Lo-Fi Beats by Norisuki</b>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" />
   </p>
-  
-  <sub><i>"Take a break, drink your coffee, and let your creativity flow."</i> 🌙</sub>
+
+  <sub><i>"Take a deep breath, brew some coffee, and keep building your dreams."</i> 🌙✨</sub>
+
 </div>
