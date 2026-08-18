@@ -15,10 +15,10 @@
   <br/>
 
   <!-- Social Badges (Minimalist & Aesthetic) -->
-  <a href="https://github.com/[username]"><img src="https://img.shields.io/badge/GitHub-181824?style=for-the-badge&logo=github&logoColor=FF79C6" alt="GitHub" /></a>
+  <a href="https://github.com/NorisukiNZk"><img src="https://img.shields.io/badge/GitHub-181824?style=for-the-badge&logo=github&logoColor=FF79C6" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/[username]"><img src="https://img.shields.io/badge/LinkedIn-181824?style=for-the-badge&logo=linkedin&logoColor=8BE9FD" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/[username]"><img src="https://img.shields.io/badge/Instagram-181824?style=for-the-badge&logo=instagram&logoColor=FF5555" alt="Instagram" /></a>
-  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-181824?style=for-the-badge&logo=gmail&logoColor=50FA7B" alt="Email" /></a>
+  <a href="https://instagram.com/noirzensky"><img src="https://img.shields.io/badge/Instagram-181824?style=for-the-badge&logo=instagram&logoColor=FF5555" alt="Instagram" /></a>
+  <a href="mailto:born.waffa@gmail.com"><img src="https://img.shields.io/badge/Email-181824?style=for-the-badge&logo=gmail&logoColor=50FA7B" alt="Email" /></a>
 
 </div>
 
