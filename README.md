@@ -4,19 +4,23 @@
   <!-- 🌙 CHAPTER 00: THE MIDNIGHT HORIZON (HEADER BANNER) 🌙 -->
   <!-- ======================================================== -->
 
-  <!-- Midnight Ocean & Starlight Gradient Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=020617,0f172a,1e1b4b,312e81,0ea5e9&height=240&section=header&text=%E2%9C%A7%20NORISUKI%20%E2%9C%A7&fontSize=56&fontColor=F8FAFC&fontAlignY=42&desc=%E3%80%8C%20%E6%9C%88%E5%A4%9C%E3%81%AE%E5%89%B5%E9%80%A0%E8%80%85%20%E2%80%A2%20Midnight%20Architect%20%26%20Visual%20Artist%20%E3%80%8D&descFontSize=17&descAlignY=64&descAlign=50&animation=fadeIn" width="100%" />
+  <!-- 100% Working Stable Midnight Capsule Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,24&height=220&section=header&text=%E2%9C%A7%20NORISUKI%20%E2%9C%A7&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Midnight%20Architect%20%7C%20Creative%20Developer%20%7C%20Visual%20Artist&descFontSize=18&descAlignY=65&descAlign=50&animation=fadeIn" width="100%" />
 
   <br/>
 
-  <!-- Dynamic Typing Header (Manga Starlight Theme) -->
+  <!-- Manga Night Aesthetic Subtitle & Dynamic Typing -->
+  <p align="center">
+    <font size="4"><b>🌌 ｢ 月夜の創造者 ｣ • <i>Midnight Creator & Developer</i> 🌌</b></font>
+  </p>
+
   <a href="https://github.com/NorisukiNZk">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Building+modern+web+ecosystems+in+the+dark;Crafting+cinematic+video+edits+%26+motion+GFX;Blending+manga+aesthetics+with+clean+code;Turning+midnight+ideas+into+digital+reality+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Midnight Glassmorphic Badges -->
+  <!-- Midnight Badges & Live Counter -->
   <a href="https://github.com/NorisukiNZk"><img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F172A" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/NorisukiNZk"><img src="https://img.shields.io/badge/LinkedIn-030712?style=for-the-badge&logo=linkedin&logoColor=818CF8&labelColor=0F172A" alt="LinkedIn" /></a>
   <a href="https://instagram.com/NorisukiNZk"><img src="https://img.shields.io/badge/Instagram-030712?style=for-the-badge&logo=instagram&logoColor=C084FC&labelColor=0F172A" alt="Instagram" /></a>
@@ -101,7 +105,7 @@ current_quest: "Mastering high-performance web systems & storytelling visuals."
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=020617,0f172a,1e1b4b,312e81,0ea5e9&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,24&height=120&section=footer" width="100%" />
 
   <p align="center">
     <font size="3"><b>「 つづく • TO BE CONTINUED IN THE NEXT COMMIT 」</b></font>
